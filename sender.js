@@ -8,5 +8,6 @@ let bot = {
 form.addEventListener("submit", (e) => {
   e.preventDefault();
 
+  //   console.log("Hello World")
   let message = document.querySelector("#some_message");
 });
